@@ -1,4 +1,3 @@
-# House-price-prediction-using-Regression.
 
 <div align="center">
 
