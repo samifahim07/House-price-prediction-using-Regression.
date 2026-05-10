@@ -72,32 +72,7 @@ house_price_prediction/
 | Decision Tree | ~0.69 | High variance |
 | SVR | ~0.63 | Kernel-based |
 
----
 
-## ⚙️ Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-```
-
-### 2. Install dependencies
-```bash
-pip install flask scikit-learn pandas numpy
-```
-
-### 3. Run the app
-```bash
-python app.py
-```
-
-### 4. Open in browser
-```
-http://localhost:5000
-```
-
----
 
 ## 🖥️ How to Use
 
