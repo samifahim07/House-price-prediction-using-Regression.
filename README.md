@@ -95,15 +95,7 @@ house_price_prediction/
 | `/predict/all` | POST | Predict with all 6 models |
 | `/metrics` | GET | Return model evaluation metrics |
 
-**Example POST to `/predict`:**
-```json
-{
-  "model": "Random Forest",
-  "features": {
-    "CRIM": 0.006, "ZN": 18, "INDUS": 2.31, "CHAS": 0
-  }
-}
-```
+
 
 ---
 
