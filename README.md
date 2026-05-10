@@ -158,13 +158,6 @@ The notebook includes:
 An IEEE-format research paper accompanying this project is available in the repository:
 📄 `House_Price_Prediction_IEEE.docx`
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 <div align="center">
 Made with ❤️ | Boston Housing Dataset | scikit-learn
